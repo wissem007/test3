@@ -1,0 +1,2 @@
+pour installer git ubantu 
+apt-get install git 
