@@ -15,7 +15,7 @@ spec:
         app: tomcat
     spec:
       containers:
-      - image: tomcat:8.0
+      - image: wissem007/gestion:development.68
         name: tomcat-container
         ports:
         - containerPort: 8080
